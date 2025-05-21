@@ -1172,7 +1172,7 @@ rtc_disable_metrics
     Set this to true to disable webrtc metrics.
 
 rtc_disable_trace_events
-    Current value (from the default) = false
+    Current value (from the default) = true
       From //webrtc.gni:287
 
     Set this to true to disable trace events.
